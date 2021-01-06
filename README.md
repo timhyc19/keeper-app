@@ -19,4 +19,6 @@ Adding Notes:
 ![step3](https://user-images.githubusercontent.com/31941027/103804071-86c1fb00-501f-11eb-9820-8f89682c4f58.PNG)
 
 Deleting Notes:
+![step4](https://user-images.githubusercontent.com/31941027/103804208-b96bf380-501f-11eb-95b7-516c0c16e53d.PNG)
+
 
