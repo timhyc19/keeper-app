@@ -1,5 +1,5 @@
 # keeper-app
-A post and delete note page made using react.
+A post and delete note page made using react. Concepts taught from Udemy Web Dev Bootcamp.
 Topics included:
 - JSX and Babel
 - Inline styling, components
